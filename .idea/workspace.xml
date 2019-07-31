@@ -5,6 +5,10 @@
     <option name="width" value="867" />
     <option name="height" value="830" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
