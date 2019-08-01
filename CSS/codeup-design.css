@@ -109,3 +109,29 @@ nav a {
     justify-content: center;
 }
 
+/*@include media sm {*/
+/*    .headerwidth {*/
+/*        */
+/*}*/
+/*}*/
+
+/*@include media-breakpoint-up(sm) {*/
+/*    .visual-header {*/
+/*        width: 100vw;*/
+/*    }*/
+/*}*/
+
+@media (min-width: 576px) {
+    .buzzword-1 {
+        font-size: 1em;
+    }
+    .buzzword-2 {
+        font-size: 1em;
+    }
+    .buzzword-3 {
+        font-size: 1em;
+    }
+    .buzzword-4 {
+        font-size: 1em;
+    }
+}
