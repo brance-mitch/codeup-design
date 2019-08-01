@@ -7,6 +7,12 @@ nav img {
     height: 17em;
 }
 
+nav a {
+    color: black;
+    font-size: 2em;
+}
+
+
 .buzzword-1 {
     background-color: #E6563B;
     width: 7.5em;
