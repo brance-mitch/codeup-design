@@ -1,5 +1,4 @@
 main {
-    background-color: blue;
     height: 1000px;
 }
 
@@ -62,4 +61,44 @@ nav img {
     justify-content: center;
     font-size: 2em;
     font-weight: bold;
+}
+
+.circle-red {
+    background-color: #E6563B;
+    width: 2em;
+    height: 2em;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle-yellow {
+    background-color: #E89E30;
+    width: 2em;
+    height: 2em;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle-green {
+    background-color: #7DB06D;
+    width: 2em;
+    height: 2em;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle-blue {
+    background-color: #50ACAA;
+    width: 2em;
+    height: 2em;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
