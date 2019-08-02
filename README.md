@@ -1,5 +1,5 @@
 # codeup-design
-Repo for HTML / CSS (Bootstrap) 
+CSS(Bootstrap) -- CodeUp Design (viewport shift project) --
 
 ::7/31/2019::
 Today we started the project on codeup-design which allowed us to get a taste of CSS Bootstrap Library. The CodeUp design project is intended to test the group's ability in the viewport variation of the Library. We started the project from mobile up to desktop view. 
